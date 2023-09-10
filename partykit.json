@@ -1,0 +1,8 @@
+{
+  "name": "simmerdown-realtime",
+  "main": "src/server.ts",
+  "serve": {
+    "path": "public",
+    "build": "src/client.ts"
+  }
+}
